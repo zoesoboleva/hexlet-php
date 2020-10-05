@@ -1,0 +1,11 @@
+{
+    "name": "zoe/example",
+    "description": "example package",
+    "authors": [
+        {
+            "name": "zoesoboleva",
+            "email": "sobolzv@mail.ru"
+        }
+    ],
+    "require": {}
+}
