@@ -7,5 +7,7 @@
             "email": "sobolzv@mail.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "tightenco/collect": "^8.0"
+    }
 }
